@@ -1,0 +1,1 @@
+pm2 serve <path> <port> --spa
